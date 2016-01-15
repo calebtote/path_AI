@@ -1,1 +1,1 @@
-# path_AI
+# Path finding AI algorithms
